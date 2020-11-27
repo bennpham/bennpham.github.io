@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Hey there, I'm Ben 👋
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm a Ruby on Rails Developer at Formulafolios in Costa Mesa, California where I build applications that help advisors manage their clients money. I was previously a PHP developer at Home Campus where I build applications that help coaches, student athletes, and athletic directors onboard and track game sessions during each sporting leagues.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm also a contributor to [IF-ME](https://github.com/ifmeorg/ifme), an open source mental health communication web app that helps people share their experiences with loved ones.
 
-
-[jekyll-organization]: https://github.com/jekyll
+I decided to start this blog to share my knowledge on things I've learned, interesting things that comes around, and other endeavors. I'm big on the idea that we learned something from somewhere or someone and the best thing we can do is to contribute to that giant pool of collective knowledge and make the world a bit better than it was one small step at a time.

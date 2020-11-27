@@ -1,29 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hello World"
 date:   2020-11-26 20:11:42 -0800
-categories: jekyll update
+categories: life
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I figured I should get my voice and thoughts out eventually. There's many things I like to share or blog about. I thought about it before, but haven't gotten around to it. I figured I'll get to it now. Some things about database optimizing, open source, mental health, parkour, my journey in tech, etc. I definitely thought about starting a blog back when I started parkour as well back when blogs were hotter in the scene, but I had a bit of imposter syndrome being new so I never ever really voiced my opinions on anything except in my own personal journal, but everyone's voice matters at the end of the day 🙂.
 
-Jekyll requires blog post files to be named according to the following format:
+I didn't want to go the whole Medium route or Wordpress since I wanted to own what I write myself.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Well, first thing I got to do off the list:
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+1. Make the site prettier
+2. Gather up some old presentations and notes I had
+3. Have more meaningful conversations, meet wholesome people, create meaningful connections, live interesting experiences
+4. Blog more
