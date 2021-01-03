@@ -32,7 +32,6 @@ twitter_username:
 github_username: bennpham
 
 # Build settings
-theme: jekyll-yamt
 plugins:
   - jekyll-feed
   - jekyll-paginate
