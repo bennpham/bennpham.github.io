@@ -39,7 +39,7 @@ plugins:
   - jekyll-sitemap
 
 #Pagination
-paginate: 3
+paginate: 10
 paginate_path: "/page:num/"
 
 #Highlighter
