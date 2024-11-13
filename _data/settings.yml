@@ -4,7 +4,9 @@ analytics-id: #leave blank to not use Analytics
 #Subtitle
 subtitle:
   active: true
-  text: Blogs about tech, hobbies, life, muay thai, food, anything goes, etc.
+  text: |
+    <h2>Read me waffle about my hobbies, food, or anything goes.<h2>
+    <h2>Work related goes on <a href="https://bennpham.gitlab.io/">https://bennpham.gitlab.io/</a>.</h2>
 
 #Nav
 nav:
