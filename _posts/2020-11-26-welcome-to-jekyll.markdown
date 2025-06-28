@@ -14,3 +14,6 @@ Well, first thing I got to do off the list:
 2. Gather up some old presentations and notes I had
 3. Have more meaningful conversations, meet wholesome people, create meaningful connections, live interesting experiences
 4. Blog more
+
+Test slot for crawling with no follow:
+[Example Link](https://example.com){:rel="nofollow"}
